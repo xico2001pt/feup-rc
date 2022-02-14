@@ -10,6 +10,7 @@ Este repositório contém:
 - Slides
 - Exercícios Resolvidos
 - Exame 2022 Resolvido
+- Folha de Consulta
 - Projetos
    - [1º trabalho laboratorial - Ligação de dados](https://github.com/xico2001pt/rc-serial-port)
    - [2º trabalho laboratorial - Rede de Computadores](https://github.com/xico2001pt/rc-download-application)
